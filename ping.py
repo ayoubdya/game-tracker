@@ -48,7 +48,7 @@ def main():
 	print(f'we have {len(trs)-2} servers')
 
 	while True:
-		sort = input("enter the key to sort with : ").lower().strip()
+		sort = input("enter the key to sort with {ping, ip, players, ratio, map, name, index}: ").lower().strip()
 		if sort in t.field_names:
 			try:
 				os.system("cls")
