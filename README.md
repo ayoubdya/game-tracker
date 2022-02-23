@@ -10,7 +10,8 @@
 
 `python ping.py https://www.gametracker.com/search/csgo/1500/?`
 
-`python ping.py https://www.gametracker.com/search/csgo/1500/? ratio` 
+`python ping.py https://www.gametracker.com/search/csgo/1500/? ratio`
+
 field names `ping, ip, players, ratio, map, name, index`
 
 ### result:
